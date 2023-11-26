@@ -26,7 +26,7 @@ Menu -> Media -> Library -> Select the uploaded photo -> Edit more information -
 
 ## Roadmap
 
-- All planed funcionality has been implemented
+- All planed funcionality has been implemented.
 
 
 ## Deployment and running
