@@ -21,7 +21,7 @@ Menu -> Media -> Library -> Select the uploaded photo -> Edit more information -
 
 ## Screenshots
 
-![App Screenshot](/1.jpg)
+![App Screenshot](/1.png)
 
 
 ## Roadmap
