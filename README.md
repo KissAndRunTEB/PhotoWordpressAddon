@@ -1,1 +1,2 @@
 # PhotoWordpressAddon
+checking
